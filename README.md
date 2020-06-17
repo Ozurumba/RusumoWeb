@@ -1,2 +1,0 @@
-# RusumoWeb
-Created with CodeSandbox
